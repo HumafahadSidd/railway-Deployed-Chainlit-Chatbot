@@ -1,3 +1,3 @@
-web: chainlit run app.py --host 0.0.0.0
+web: chainlit run chatbot.py --host 0.0.0.0
 
 
